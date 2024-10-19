@@ -30,4 +30,5 @@ The project uses SQLite for task persistence. When the application is run, it au
 CREATE TABLE IF NOT EXISTS tasks (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     description TEXT NOT NULL
-);```
+);
+```
